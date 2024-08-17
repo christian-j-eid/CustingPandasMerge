@@ -1,4 +1,4 @@
-# CustingPandasMerge
+# CustomPandasMerge
 Merging three excel spreadsheet files using Pandas &amp; numpy + openpyxl. Requires custom merging functions to retain a Master Format. Freelance project used by compnay. 
 
 Set EXPLAIN variable to understand results
