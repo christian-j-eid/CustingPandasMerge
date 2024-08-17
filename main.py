@@ -18,9 +18,10 @@ titleNewPath = 'changedTitleCsv'
 originalPath = 'unchangedCSV'
 
 
-# file1 = originalPath + '/2024-2025 Master List to -- ----.xlsx - Sheet1.csv'
-# file2 = originalPath + '/2024-2025 Master List email list to -- ----- --_------ save to send and deduped.xlsx - sheet1.csv'
-# file3 = originalPath + '/--- ------ -------- brochure Moved Records Jul2024.xlsx - AddressData1.csv'
+##FILENAMES ARE CHANGED TO PROTECT COMPANY BUT WILL ADD MOCK DATA
+# file1 = originalPath + '/A'
+# file2 = originalPath + '/B'
+# file3 = originalPath + '/C'
 
 master = pd.read_csv(file1)
 brochure = pd.read_csv(file3)
